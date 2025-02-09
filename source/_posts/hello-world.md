@@ -1,38 +1,41 @@
 ---
-title: Hello World
+title: 进入服务器教程
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+首先，你要通过管理员们的审核，才能进入HRMTR服务器，你必须要**认真**地写进入服务器内群的表单，否则管理员可能会拒绝你。
 
-## Quick Start
+当你的表单通过后，服务器里的人会给你加到HRMTR内群。
 
-### Create a new post
+恭喜你，通过了大多数人通过不了的关卡。
 
-``` bash
-$ hexo new "My New Post"
+---
+
+第二步，你就要进入服务器了，请你读懂以下内容：
 ```
+一切未被报备的建设将会被视为对HRMTR管理条例的违背，
+一切未被报备的建设将会被视为对HRMTR管理组的羞辱，
+一切未被报备的建设将会被视为对HRMTR中央政府议会的亵渎；
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+一切未被报备的建设将会授权所有人员强制性拆除，
+一切未被报备的建设将会强制所有人员拆除，
+一切未被报备的建筑的建设人员将会被强制解除修建权力
 
-### Run server
-
-``` bash
-$ hexo server
+注意事项：
+1.进群后请仔细阅读群公告、文件及精华消息。
+2.请将您的群聊内名字改为您的游戏名。游戏名仅可带有英文大写字符、英文下划线等英文字符。
+3.若遇到公告不能解决的疑问，请私聊腐竹或管理员进行解答。请勿提出一些在已解答的情况下的问题。
+4.大型建筑需要提前向管理组报备，需要不妨碍已有建筑且美观。
+5.建设线路需提前做好线路勘探规划并向管理组报备，需不妨碍已有线路，线路建设途中不得半途而废，线路隧道可自己发挥(合理且质量高)，也可使用HR标准。
+6.公路由@WUDI_WU负责，公交由@pingjun_t负责，建筑轨交规划由@CrepperX负责，行政宣发由@wangwanggou_1145负责。
+7.严禁泄漏服务器IP，若违反，你将会被踢出服务器。
+8.请及时留意服务器文件的发布与修订，防止违反服务器条例。
+9.若你主动退出内群，你需要重新填写审核问卷进入内群。
+10.内群内禁止刷屏、打广告、谈论敏感、色情等内容。
+11.若您涉及违反条例，您很有可能在已经加入服务器的情况下也永久被踢出
 ```
+当你读完后，你就可以进入服务器了。
 
-More info: [Server](https://hexo.io/docs/server.html)
+IP： `pm.rainplay.cn:36140`
 
-### Generate static files
+服务器版本：`JAVA 1.20.1 Forge`
 
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+你也可以使用群文件中的整合包进入服务器。
