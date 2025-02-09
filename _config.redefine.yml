@@ -25,11 +25,11 @@ info:
 # Docs: https://redefine-docs.ohevan.com/basic/defaults
 defaults:
   # Favicon
-  favicon: /images/redefine-favicon.svg
+  favicon: logo.png
   # Site logo
   logo: 
   # Site avatar
-  avatar: /images/redefine-avatar.svg
+  avatar: logo.png
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -128,10 +128,10 @@ home_banner:
     light: /images/wallhaven-wqery6-light.webp # light mode
     dark: /images/wallhaven-wqery6-dark.webp # dark mode
   # Home banner title
-  title: Theme Redefine
+  title: HRMTR官网
   # Home banner subtitle
   subtitle:
-    text: [] # subtitle text, array
+    text: ["新官网，新气象"] # subtitle text, array
     hitokoto:  # 一言配置
       enable: false # Whether to enable hitokoto
       show_author: false # Whether to show author
