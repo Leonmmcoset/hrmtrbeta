@@ -80,7 +80,7 @@ global:
   # Website counter
   website_counter:
     url: https://cn.vercount.one/js # counter API URL (no need to change)
-    enable: true # enable website counter or not
+    enable: false # enable website counter or not
     site_pv: true # site page view
     site_uv: true # site unique visitor
     post_pv: true # post page view
@@ -215,12 +215,13 @@ navbar:
     #     Github: https://github.com/EvanNotFound/hexo-theme-redefine
     #     Blog: https://ohevan.com
     #     Friends: /friends
-    # Links: 
-    #   icon: fa-regular fa-link
-    #   submenus:
-    #     Link1: /link1
-    #     Link2: /link2
-    #     Link3: /link3
+    友好服务器: 
+      icon: fa-regular fa-link
+      submenus:
+        Leon轨道交通: https://leonmmcoset.github.io/vitepress/teach/mtr7180.html
+        永盛工业: /
+        云山工艺: /
+        MTR小众服务器: http://wujdyd.rth1.xyz/
     # ...... # you can add more
   # Navbar search (local search). Requires hexo-generator-searchdb (npm i hexo-generator-searchdb). See https://github.com/theme-next/hexo-generator-searchdb
   search:
