@@ -11,13 +11,13 @@
 # Docs: https://redefine-docs.ohevan.com/basic/info
 info:
   # Site title
-  title: Theme Redefine
+  title: HRMTR官网
   # Site subtitle
-  subtitle: Redefine Your Hexo Journey.
+  subtitle: 新官网，新气象
   # Author name
-  author: The Redefine Team
+  author: LeonMMcoset
   # Site URL
-  url: https://redefine.ohevan.com
+  url: https://leonmmcoset.github.io/hrmtrbeta/
 # BASIC INFORMATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -52,7 +52,7 @@ global:
   fonts:
     # Chinese fonts
     chinese: 
-      enable: false # Whether to enable custom chinese fonts
+      enable: true # Whether to enable custom chinese fonts
       family:  # Font family
       url:  # Font URL to CSS file
     # English fonts
