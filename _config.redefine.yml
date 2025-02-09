@@ -27,7 +27,7 @@ defaults:
   # Favicon
   favicon: logo.svg
   # Site logo
-  logo: 
+  logo: logo.svg
   # Site avatar
   avatar: logo.svg
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
